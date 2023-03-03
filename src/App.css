@@ -1,0 +1,35 @@
+
+.App{
+   padding: 80px;
+   }
+
+  .markSheet {
+    text-align: center;
+    margin: 30px;
+    color: rgb(0, 0, 162);
+  }
+  .buttons{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+  }
+  .buttons .edit{
+color: rgb(57, 127, 213);
+cursor: pointer;
+  }
+  .buttons .delete{
+    color: rgb(235, 36, 36);
+    cursor: pointer;
+      }
+.add-btn{
+    float: right;
+    margin-bottom: 20px;
+}
+
+.add-container{
+  width:40%;
+  margin:5% auto;
+  border: 1px solid #ced4da;
+  border-radius: 10px;
+  padding: 15px;
+}
