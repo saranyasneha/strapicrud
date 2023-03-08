@@ -69,7 +69,7 @@ const editBtn=()=>{
             <th>Employee Age</th>
             <th>Employee City</th>
             <th>Employee Mail Id</th>
-            <th>Employee Phone Number</th>
+            <th> Phone Number</th>
             <th>Designation</th>
             <th>Actions</th>
           </tr>
